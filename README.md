@@ -19,8 +19,7 @@ Hi, I’m @Shuvendu29 👋
 - Python automation for workflow optimization
 📫 How to reach me...
 📧 Email: shuvendu.29@hotmail.com
-📱 LinkedIn: [Your LinkedIn Profile]
-🌐 GitHub: [Your GitHub Profile]
+📱 LinkedIn:www.linkedin.com/in/shuvendu-sagar-sahoo-50795986
 😄 Pronouns: He/Him
 ⚡ Fun fact:
 💃 Apart from data crunching, I’m a professional dancer & choreographer!
