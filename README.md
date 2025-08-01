@@ -17,6 +17,7 @@ Hi, I’m @Shuvendu29 👋
 - Environmental analytics & pollution monitoring
 - Business intelligence solutions using Power BI
 - Python automation for workflow optimization
+
 📫 How to reach me...
 📧 Email: shuvendu.29@hotmail.com
 📱 LinkedIn:www.linkedin.com/in/shuvendu-sagar-sahoo-50795986
